@@ -53,6 +53,31 @@ See our [Privacy Policy, Terms & Export-Control notices](https://embryospace.com
 5. Click **Generate PDR** for the full draft.
 6. Review and edit in-app, then **Export** to your format.
 
+📄 **[Formatting Guide](FORMATTING-GUIDE.md)** — how to structure your package so
+it extracts cleanly · ❓ **[FAQ](FAQ.md)**
+
+---
+
+## Getting the best results
+
+A few habits make a large difference. The full detail is in the
+[Formatting Guide](FORMATTING-GUIDE.md); the short version:
+
+- **Use .pptx or .xlsx for risk registers and budgets.** Only those two preserve
+  table structure — a risk register inside a PDF is flat text and won't extract.
+- **Give every requirement an ID with a separator and a modal verb:**
+  `SYS-0101 The spacecraft shall …`. `SYS 0101` (space only) is not treated as an ID.
+- **State allocations with a number and a unit:** *"dry mass shall not exceed
+  240 kg"*. This is what the Decisions tab measures against.
+- **State margin requirements as percentages:** *"shall maintain a dry mass margin
+  of at least 15%"* — your own limit outranks the industry guideline.
+- **Number your TBD/TBR items** (`TBD-07`), and put them inside the requirement
+  they affect.
+- **Import the source package, not a PDR this tool generated.**
+
+> If an import returns zero requirements, it's nearly always the ID format or a
+> re-imported output document — see the [FAQ](FAQ.md).
+
 ---
 
 ## Pricing
