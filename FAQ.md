@@ -5,7 +5,7 @@
 **What does it actually do?**
 You import your SRR/SDR package. It extracts requirements, risks, TBD/TBR items,
 interfaces and budgets with the source location of each, runs the checks a review
-board runs, and generates a 17-section PDR draft built to NASA NPR 7123.1D,
+board runs, and generates an 18-section PDR draft built to NASA NPR 7123.1D,
 IEEE 15288.2 and ECSS — every block cited back to your source. You edit anything
 in the app and export to Word, PDF, PowerPoint, Markdown or HTML.
 

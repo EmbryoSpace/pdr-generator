@@ -28,7 +28,7 @@ Drop in your review package — PowerPoint, Word, PDF, Excel, or CAD — and PDR
 
 - **Extracts** every requirement (SYS-xxxx and friends), risk, TBD/TBR item, and interface, preserving the source location of each artifact.
 - **Analyzes** what a review board will find: conflicting requirement definitions, missing verification methods, unallocated requirements, open TBX items, missing budgets.
-- **Generates** a 17-section PDR draft built to **NASA NPR 7123.1D**, **IEEE 15288.2**, and **ECSS** — every sentence cited back to your source slides, each block carrying a confidence score.
+- **Generates** an 18-section PDR draft built to **NASA NPR 7123.1D**, **IEEE 15288.2**, and **ECSS** — every sentence cited back to your source slides, each block carrying a confidence score.
 - **Edits** in a Notion-style editor; your manual edits survive regeneration when new documents arrive.
 - **Exports** to Microsoft Word, PDF, PowerPoint review slides, Markdown, and HTML.
 
